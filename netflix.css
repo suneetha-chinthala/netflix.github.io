@@ -1,0 +1,43 @@
+.navbar{
+    height: 80px;
+}
+.stylinglogo{
+    width: 70px;
+    height:40px;
+    padding:5px;
+}
+#go{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border:0px;
+    font-size: 40px;
+}
+#go:hover{
+    color:#c90202;
+}
+#goo1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border: 0px;
+    font-size: 40px;
+}
+.nethead{
+    font-size:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.netcards{
+    border-radius: 16px;
+}
+.netimage{
+    border-radius: 16px;
+}
+.netlink{
+    color: #c90202;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
